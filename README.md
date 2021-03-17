@@ -6,7 +6,7 @@
 
    Name      |  Link
 ------------ | -------------
-First Read   | [read01](read01.md)
-Second Read  | [read02a](read02a.md)
-Third Read   | [read02b](read02b.md)
-Fourth Read  | [read03](read03.md)
+First Read   | [read01](./Reads/read01.md)
+Second Read  | [read02a](./Reads/read02a.md)
+Third Read   | [read02b](./Reads/read02b.md)
+Fourth Read  | [read03](./Reads/read03.md)
