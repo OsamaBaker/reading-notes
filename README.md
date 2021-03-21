@@ -11,6 +11,7 @@ Second Read  | [read02a](./Reads/read02a.md)
 Third Read   | [read02b](./Reads/read02b.md)
 Fourth Read  | [read03](./Reads/read03.md)
 Fifth Read  | [read04a](./Reads/read04a.md)
+Sixth Read  | [read05](Reads/read05.md)
 
 This is my wireframe sketch of my website:
 ![Wireframe](TechSavvyWebsiteWireframe.png)
