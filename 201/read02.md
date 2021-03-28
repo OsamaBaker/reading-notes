@@ -59,3 +59,8 @@ The variable can begin with a dollar sign ($) or an underscore (_), but can't st
 Variables are case-sensitive, where score is different than Score.
 
 If a variable is made from multiple words, we use way called camel case, where eachWordBeigns with a capital letter except for the first word.
+
+# Decisions and Loops
+Decision can be illustrated in flow charts, where multiple operations can take place, if either the statement is true, one operation can take place, otherwise the statement is false and will run a different operation.
+
+**Loops** can act as a verification process for certain values. The for loop can display a list of items, and the while loop can be used to verify a password entered correctly.
