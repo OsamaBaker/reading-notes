@@ -50,5 +50,5 @@ Class02      | [State and Props](301/class02.md)
 Class03      | [Passing Functions as Props](301/class03.md)
 Class04      | [Controlled Component](301/class04.md)
 Class05      | [Putting it all together](301/class05.md)
-Class06
+Class06      | [NODE.JS](301/class06.md)
 Class07      | [REST](301/class07.md)
