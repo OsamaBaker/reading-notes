@@ -58,3 +58,9 @@ class10      | [Understanding the JavaScript Call Stack](301/class10.md)
 class11      | [Authentication](301/class11.md)
 class12      | [Mongo and Mongoose](301/class12.md)
 class13      | [Status Codes Based On REST Methods](301/class13.md)
+
+# Code 401 Reading Notes
+
+   Name      |  Link
+------------ | -------------
+Class01      | [Advanced Javascript Development](401/prework.md)
