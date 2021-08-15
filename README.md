@@ -65,3 +65,4 @@ class13      | [Status Codes Based On REST Methods](301/class13.md)
 ------------ | -------------
 Pre-Work     | [Advanced Javascript Development](401/prework.md)
 Class01      | [Node Ecosystem, TDD, CI/CD](401/class01.md)
+Class02      | [Express](401/class02.md)
